@@ -1,0 +1,5 @@
+Murka 12-12-2018 1,2,3,4,5,11,12, petsAnimal Cat
+Barbos 11-11-2011 2,4,5,6,12, petsAnimal Dog
+Honor 06-06-1999 2,3,3,5, packAnimals Camel
+Gelard 21-12-2012 4,6, packAnimals Donkey
+GG 12-12-2020 1,3,5,7, packAnimals Donkey
